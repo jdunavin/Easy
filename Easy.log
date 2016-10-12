@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.9.15)  10 OCT 2016 20:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.9.15)  11 OCT 2016 19:54
 entering extended mode
 **./Easy.tex
 (Easy.tex
@@ -489,65 +489,66 @@ Underfull \vbox (badness 2073) has occurred while \output is active []
  [10
 
 ]
-Overfull \hbox (7.91956pt too wide) in paragraph at lines 258--258
+[11]
+Overfull \hbox (7.91956pt too wide) in paragraph at lines 279--279
 \OT1/pcr/m/n/10.95 CHS ConAgra Cargill is looking for agricultural laborers
  []
 
 
-Overfull \hbox (2.44466pt too wide) in paragraph at lines 258--258
+Overfull \hbox (2.44466pt too wide) in paragraph at lines 279--279
 []\OT1/pcr/m/n/10.95 Must be able to work safely in a plant environment. 
  []
 
 
-Overfull \hbox (15.58464pt too wide) in paragraph at lines 258--258
+Overfull \hbox (15.58464pt too wide) in paragraph at lines 279--279
 \OT1/pcr/m/n/10.95 situations to accomplish production goals for private 
  []
 
 
-Overfull \hbox (2.44466pt too wide) in paragraph at lines 258--258
+Overfull \hbox (2.44466pt too wide) in paragraph at lines 279--279
 \OT1/pcr/m/n/10.95 interests, government contracts, and to support the 
  []
 
 
-Overfull \hbox (15.58464pt too wide) in paragraph at lines 258--258
+Overfull \hbox (15.58464pt too wide) in paragraph at lines 279--279
 []\OT1/pcr/m/n/10.95 Must be able to wear personal protective equipment as
  []
 
 
-Overfull \hbox (9.01465pt too wide) in paragraph at lines 258--258
+Overfull \hbox (9.01465pt too wide) in paragraph at lines 279--279
 []\OT1/pcr/m/n/10.95 Must be available for both scheduled and unscheduled
  []
 
 
-Overfull \hbox (9.01465pt too wide) in paragraph at lines 258--258
+Overfull \hbox (9.01465pt too wide) in paragraph at lines 279--279
 \OT1/pcr/m/n/10.95 overtime, especially around deadlines for government
  []
 
 
-Overfull \hbox (7.91956pt too wide) in paragraph at lines 258--258
+Overfull \hbox (7.91956pt too wide) in paragraph at lines 279--279
 \OT1/pcr/m/n/10.95 Benefits include competitive pay, savings / student loan
  []
 
-[11] [12
+[12] [13
 
-] [13] (Easy.aux) ) 
+] (Easy.aux) ) 
 Here is how much of TeX's memory you used:
  11536 strings out of 493334
  234787 string characters out of 3139252
- 268611 words of memory out of 3000000
+ 269613 words of memory out of 3000000
  14851 multiletter control sequences out of 15000+200000
  10159 words of font info for 37 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,6n,54p,1158b,384s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc
-}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Prog
-ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files
-/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2
-.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts
-/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
-ublic/amsfonts/cm/cmtt10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/couri
-er/ucrr8a.pfb>
-Output written on Easy.pdf (13 pages, 137437 bytes).
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/
+Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program F
+iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmtt10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/courier/uc
+rr8a.pfb>
+Output written on Easy.pdf (13 pages, 138106 bytes).
 PDF statistics:
  77 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
