@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.9.15)  11 OCT 2016 19:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.9.15)  27 OCT 2016 21:12
 entering extended mode
 **./Easy.tex
 (Easy.tex
@@ -429,17 +429,19 @@ Missing character: There is no € in font cmr10!
 Missing character: There is no ¦ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
-Missing character: There is no ¦ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
- [2]
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 80.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1pcr.fd"
+Overfull \hbox (11.68968pt too wide) in paragraph at lines 73--74
+\OT1/cmr/m/n/10.95 ETH-NIC/CULTURAL EX-EMP-TION be-ing the ap-par-ent rea-sons)
+, on through
+ []
+
+[2]
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 80.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1pcr.fd"
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
 LaTeX Font Info:    Try loading font information for OMS+pcr on input line 80.
@@ -455,13 +457,13 @@ Underfull \vbox (badness 4927) has occurred while \output is active []
  [4
 
 ]
-Overfull \hbox (13.41864pt too wide) in paragraph at lines 93--94
+Overfull \hbox (13.41864pt too wide) in paragraph at lines 95--96
 []\OT1/cmtt/m/n/10.95 Chandler: dude wndrng if youd read pc about samsung quasa
 r iv
  []
 
 
-Overfull \hbox (1.92126pt too wide) in paragraph at lines 95--96
+Overfull \hbox (1.92126pt too wide) in paragraph at lines 97--98
 []\OT1/cmtt/m/n/10.95 Brannen Tragen: I need you to come back to the office ASA
 P. 
  []
@@ -481,51 +483,51 @@ Underfull \hbox (badness 10000) in paragraph at lines 191--191
  []
 
 [9]
-Missing character: There is no Ã in font cmtt10!
-Missing character: There is no ­ in font cmtt10!
-
-Underfull \vbox (badness 2073) has occurred while \output is active []
+Underfull \vbox (badness 4927) has occurred while \output is active []
 
  [10
 
 ]
+Missing character: There is no Ã in font cmtt10!
+Missing character: There is no ­ in font cmtt10!
+
 [11]
-Overfull \hbox (7.91956pt too wide) in paragraph at lines 279--279
+Overfull \hbox (7.91956pt too wide) in paragraph at lines 275--275
 \OT1/pcr/m/n/10.95 CHS ConAgra Cargill is looking for agricultural laborers
  []
 
 
-Overfull \hbox (2.44466pt too wide) in paragraph at lines 279--279
+Overfull \hbox (2.44466pt too wide) in paragraph at lines 275--275
 []\OT1/pcr/m/n/10.95 Must be able to work safely in a plant environment. 
  []
 
 
-Overfull \hbox (15.58464pt too wide) in paragraph at lines 279--279
+Overfull \hbox (15.58464pt too wide) in paragraph at lines 275--275
 \OT1/pcr/m/n/10.95 situations to accomplish production goals for private 
  []
 
 
-Overfull \hbox (2.44466pt too wide) in paragraph at lines 279--279
+Overfull \hbox (2.44466pt too wide) in paragraph at lines 275--275
 \OT1/pcr/m/n/10.95 interests, government contracts, and to support the 
  []
 
 
-Overfull \hbox (15.58464pt too wide) in paragraph at lines 279--279
+Overfull \hbox (15.58464pt too wide) in paragraph at lines 275--275
 []\OT1/pcr/m/n/10.95 Must be able to wear personal protective equipment as
  []
 
 
-Overfull \hbox (9.01465pt too wide) in paragraph at lines 279--279
+Overfull \hbox (9.01465pt too wide) in paragraph at lines 275--275
 []\OT1/pcr/m/n/10.95 Must be available for both scheduled and unscheduled
  []
 
 
-Overfull \hbox (9.01465pt too wide) in paragraph at lines 279--279
+Overfull \hbox (9.01465pt too wide) in paragraph at lines 275--275
 \OT1/pcr/m/n/10.95 overtime, especially around deadlines for government
  []
 
 
-Overfull \hbox (7.91956pt too wide) in paragraph at lines 279--279
+Overfull \hbox (7.91956pt too wide) in paragraph at lines 275--275
 \OT1/pcr/m/n/10.95 Benefits include competitive pay, savings / student loan
  []
 
@@ -539,7 +541,7 @@ Here is how much of TeX's memory you used:
  14851 multiletter control sequences out of 15000+200000
  10159 words of font info for 37 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,6n,54p,1158b,384s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 55i,6n,54p,1224b,384s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/
 Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program F
 iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKT
@@ -548,7 +550,7 @@ nts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
 1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
 /amsfonts/cm/cmtt10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/courier/uc
 rr8a.pfb>
-Output written on Easy.pdf (13 pages, 138106 bytes).
+Output written on Easy.pdf (13 pages, 138957 bytes).
 PDF statistics:
  77 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
