@@ -1,6 +1,6 @@
 ﻿Easy
 Jason R. Dunavin, F.S.A., M.A.A.A.
-November 7, 2016
+November 10, 2016
 2
 “You are...Mr. Markson? Ah, yes – your payment is in order. We
 understand you come for a LEMP.” In his thick Russian accent, it sounded
@@ -9,9 +9,10 @@ to discuss with a Russian gangster, this big electrical contraption. But
 maybe not the weirdest.
 “Yes.”
 “You understand what that means?”
-“Scientifically speaking, I know what a LEMP is. Let’s just leave it at
-that.”
-“You are aware, then, that you won’t be able to fully participate in soc-”
+The young man Mr. Markson’s heart was pounding. “Scientifically
+speaking, I know what a LEMP is. Let’s just leave it at that.”
+“This will kill the nanobots, no danger to you. You are aware, though,
+that you won’t be able to fully participate in soc-”
 “Aware of it, yes.” Understand it? I’ll let you know when I get out West.
 Aidan had handed over his phone at the desk so it wouldn’t get fried, but
 then frying it would probably be the best outcome, since the SIM-3 card
@@ -39,7 +40,6 @@ jerked him back into reality.
 “You ready?” The waitress managed to combine the alertness of a pen
 poised over a pad and the worldly disinterest of a Finnish graduate student
 in architecture into a single set of body language without any effort.
-“Oh. Yeah. Pho. Veggie. Spicy. Water to drink. Thanks.”
 3
 0001 HIXBOT ADP8144139812-000007C0
 SEARCHING FOR CMS PATIENT CLOUD...DONE
@@ -65,6 +65,9 @@ surchargeSched.diagCode("I10")
 SHARED RESPONSIBILITY PAYMENT APPLIED"
 CHECKING EMPLOYMENT RECORDS...
 4
+“Oh. Yeah. Pho. Veggie. Spicy. Water to drink. Thanks.” Aiden’s
+eleven-hour work day was already melting away. He could feel the steam
+rising from his body. Maybe that was the kitchen.
 The order was dutifully recorded and remanded to the kitchen without
 further comment. Minutes later, a steaming bowl arrived along with a glass
 of iced water. Aidan took a spoonful from the bowl. The warmth of the
@@ -75,21 +78,33 @@ the fat and cholesterol on top of all the sodium. Also, beef – when you could
 find it – was terribly expensive. The fresh vegetables were an extravagance
 enough in the city, where there was barely any natural green to begin with
 – the sun didn’t shine directly down here anyhow.
+Aiden liked this place because it was warm and brightly lit. It was
+almost like a Turkish bath, if the Turks were replaced by Vietnamese short
+order cooks and burned-out waitresses stomping out hour number 14 of their
+workday. Despite the clanging of pots and the occasional exclamations from
+the kitchen, it was a peaceful place; at least, as peaceful as this city got. The
+city bustled with commerce; it had better – all these people had rent and
+student loans and Medicare premiums to pay. Aiden was on his last $100.
+His paycheck went through at midnight, and his last nanobot evaluation
+came out only moderately bad, so he was going to live a little.
 The best way to eat pho is as follows: just as you’re about to cram a
 chopstick-load of noodles or vegetable matter or whatever into your face,
-form a sort of channel with your tongue that you prefill with spit as a
+form a sort of channel with your tongue that you pre-fill with spit as a
 protective film against the scalding-hot broth, which only compounds with
 the spicy burn. This Aiden did, sending another comforting wave of warmth
-through his body. Aiden guessed that it wouldn’t feel so good when the
-Medicare nanobots in his blood stream had their say at the first of the
-month, but this was a comfort food kind of a night. No textured-soy-protein
-and dilapidated-subway-tunnel mushroom medley was going to cut it.
+through his body. Aiden contemplated that it might not feel so good when
+the Medicare nanobots in his blood stream had their say at the first of the
+month. A previous “live-a-little” experience had landed him in a meeting
+room for a talking-to about “team health targets”. This was a comfort food
+kind of a night, though. No textured-soy-protein and dilapidated-subway-
+tunnel mushroom cabbage medley was going to cut it.
 The heat was fading fast from the bowl, so Aiden slurped down the rest
 of the broth, put the bill of $51.78 on his card, and hit the streets. An
 extravagance indeed, but being one of Uncle Sam’s spreadsheet jockeys had
 its perks. Discounts on the train, a One in a newer housing block that he
 only had to share with one person (a frequently-stoned freelance writer/Uber
 driver/data scientist contractor named Chandler), an hour-and-a-half train
+5
 ride from the office.
 Aidan put on his headset and waded out into the city’s mass of humanity.
 Everybody either was coming home or going to their second (or third) gig.
@@ -104,7 +119,6 @@ crowd. He was sick to death of hearing Chandler “ideate” out loud through
 another gadget review, but then his gadget reviews funded his “medicinal”
 marjiuana habit (and fake license to get same). Contracts were the way
 most people funded their lives in the city. You’d run into a guy who had
-5
 an Uber-style gig processing property insurance claims, played music for
 advertising jingles as a session musician, and worked at a bodega hawking
 magazines. Or a gal who cleaned apartments, scrubbed transaction data for
@@ -130,6 +144,7 @@ MATTERS!
 The music’s only-partially soothing influence was promptly interrupted
 by two sharp dings, a couple of seconds apart. Text messages. Crap.
 Chandler: dude wndrng if youd read pc about samsung quasar iv
+6
 b4 submit, dat thangs DANK
 Brannen Tragen: I need you to come back to the office ASAP.
 Aiden stopped and out fell a heavy sigh. He looked up toward the dark,
@@ -141,7 +156,6 @@ would agree with whatever Chandler said about his gadget review with hope
 station to schlepp back to the office for what could not possibly be anything
 good.
 Out West. Aiden’s last two words to the Russian sparked a memory
-6
 from college, specifically from one of the humanities courses he had been
 mandated to take – Early Film History. He thought he remembered the TA
 saying that there was supposed to be some kind of romanticism embedded in
@@ -168,6 +182,7 @@ prison populations – the less violent ones, at least – provide a source for
 workers. Immigration – both legal and illegal – provide another source.
 Ten billion people can eat a hell of a lot of food, though, and so more
 farm workers were needed from somewhere. These are made up of refugees
+7
 from the contract economy, the “sharing” economy; those who won’t – or
 can’t – support themselves or their families in the cities. Life is hard for
 these people, working 12-hour shifts to meet production and shipping targets
@@ -182,7 +197,6 @@ have (or can’t get) full-spectrum jobs can expect to live what relatively
 short time is left of their lives in squalor in stacks of shipping containers in
 some Midwestern shanty town or on the outskirts of a major city that would
 offend any Rio street urchin from back in Grandpa’s day.
-7
 Another aspect of this importance is that Uncle Sam and the factory
 farms offered inducements to subject oneself to this lifestyle – like the for-
 giveness of part or all of one’s student loan debt. More than a few people had
@@ -209,6 +223,7 @@ arrayed before Aiden now. Aiden had made contact through Chandler’s
 marijuana crowd, a friend-of-a-friend thing (maybe “friend” was the wrong
 word, but you get the idea). This little 50-millisecond EMP burst would
 cost him five thousand dollars, which was coming out of his future pay at
+8
 ADM Monsanto Bayer. Really, they were quite understanding about the
 money, for a Russian gang.
 There were other consequences too – who knows what would happen in
@@ -223,7 +238,6 @@ this stifling economy, Aiden didn’t see how.
 The “reward” for all this pain was that his family – maybe even his little
 sister – wouldn’t inherit all of the burden of his fantastically-expensive state-
 college education. Maybe they could maintain their halfway decent Two in
-8
 a lower-crime neighborhood. And if his life was going to suck anyhow, it
 might as well suck with access to some decent Mexican food without having
 to hear about it from a carefully-coiffured fake-smiling middle manager.
@@ -246,20 +260,6 @@ and cutting costs. “I’d like to talk with you a bit about our teams health
 goal, as it relates to your overall performance. Comparatively speaking, you
 have been in the bottom ten percent of most team metrics, especially stress
 levels and sodium intake...”
-“Fifteen minutes to Columbia. This will be the last stop. We’ll take a
-fifteen-minute break and meet back at the bus stop.” The announcement
-was followed by the same two-tone beep you’ve heard in every mass-transit
-situation.
-There was one guy like that in every bureau. Aiden generally got along
-with his coworkers. They were trying to do right by as many people as they
-could. Aiden’s bureau was mainly responsible for collecting, cleaning, and
-analyzing the vast amount of biometric data coming in from the nanobots
-everyone was injected with starting back in 2027 and at birth thereafter.
-Aiden’s grandpa was something called an “actuary” back in the day that
-used to do something similar, using stone tablets or those vintage computers
-that took up three square feet on your desk and had all these ugly wires
-coming out everywhere.
-Aiden was one of the data jockeys that processed and cleaned the data
 9
 To: Data Analytics Team
 From: Tragen, Brannen
@@ -282,15 +282,29 @@ Office of Enterprise Data and Analytics
 Centers for Medicare and Medicaid Services
 United States Department of Health and Human Services
 10
+“Fifteen minutes to Columbia. This will be the last stop. We’ll take a
+fifteen-minute break and meet back at the bus stop.” The announcement
+was followed by the same two-tone beep you’ve heard in every mass-transit
+situation.
+There was one guy like that in every bureau. Aiden generally got along
+with his coworkers. Aiden’s bureau was mainly responsible for collecting,
+cleaning, and analyzing the vast amount of biometric data coming in from
+the nanobots everyone was injected with starting back in 2027 and at birth
+thereafter. Aiden’s grandpa was something called an “actuary” back in the
+day that used to do something similar, using stone tablets or those vintage
+computers that took up three square feet on your desk and had all these
+ugly wires coming out everywhere.
+Aiden was one of the data jockeys that processed and cleaned the data
 to let the next-generation AIs have at it, trying to find answers. The United
-States had lagged behind other first-world nations for decades in the area of
-population health. Life expectancies had been declining recently, as had live
-birth rates. CMS was funded on a war footing to try to find “the answer”,
-and “the answer” so far was that the people who could play along with the
-system and navigate reams of regulations without attracting the attention
-of the alphabet soup of law-enforcement agencies or being referred to the
-IRS could generally expect to live “normal” lives, or what passed for normal
-these days.
+States had lagged behind other first-world nations for decades in the area
+of population health. Life expectancies had been declining recently, as had
+live birth rates. Aiden and his peers were trying to do right by as many
+people as they could. CMS was funded on a war footing to try to find “the
+answer”, and “the answer” so far was that the people who could play along
+with the system and navigate reams of regulations without attracting the
+attention of the alphabet soup of law-enforcement agencies or being referred
+to the IRS could generally expect to live “normal” lives, or what passed for
+normal these days.
 The problem with meeting population health targets, of course, has
 pretty much everything to do with the population, which is made up of
 pesky individuals who forget to take their meds (or who may feel uneasy
@@ -299,30 +313,32 @@ bodies, which may or may not have been tested in the presence of other such
 substances). They forget their doctor’s instructions, they decide they don’t
 need the doctors, or maybe they don’t understand the doctors’ instructions.
 Or they do understand but then they go out and smoke cigarettes and drink
-whiskey and eat cheeseburgers or fried chicken or do drugs because they feel
-or taste good and they’re a respite from working two or three temp jobs just
-to keep up their dreary lives. The stress of keeping up was enough by itself
-to run many people into the ground.
+whiskey and eat cheeseburgers or salty Southeast Asian dishes or do drugs
+because they feel or taste good and they’re a respite from working two or
+three temp jobs just to keep up their dreary lives. The stress of keeping up
+was enough by itself to run many people, quite literally, into the ground.
 The stakes are higher now than back in Grandpa’s day. Aiden had a
 student debt of seven times what Grandpa had from the late Nineties, and
-Grandpa had worked for fifteen years to pay his off. Grandpa had worked
+Grandpa had worked for fifteen years to pay his off. The old man had worked
 in one specialized career his whole working life, and then one day he retired.
+11
 Now most people worked two or three ’gigs’ – temporary or part-time jobs
-– as labor had become more commoditized than specialized. Also, the rest
-of the world had “teched up” to a minimum level of competition with the
-West. The ready availability of cheap labor worldwide caused prices to fall,
-and competition was cut-throat. Whole sectors would rise and fall like the
-breeze. People dug their fingernails into whatever work they could get. Some
-people survived, others not so much.
+– as labor had become more commoditized than specialized. “Retirement”
+was what you did when you got too sick to work.
+Also, the rest of the world had “teched up” to a minimum level of com-
+petition with the West. The ready availability of cheap labor worldwide
+caused prices to fall, and competition was cut-throat. Whole sectors would
+rise and fall like the breeze. People dug their fingernails into whatever work
+they could get. Some people survived, others not so much.
 The tobacco part of the equation got taken care of when tobacco began
 to be treated as a controlled substance in the Twenties, and the government
 made the tobacco farmers plant food instead. Beef got taken care when the
 supply crashed due to needing room to grow food, with the result that beef
-became fantastically expensive. The rest is that old annoyance, “individual
-human behavior”, and that was what the nanobots were for. Every conceiv-
-able body chemistry metric was measured, recorded, and sent through the
-11
-air either to satellites in space or to hardened “data bunkers” in nearly every
+became ridiculously expensive.
+The rest can be chalked up to that old annoyance, “individual human
+behavior”, and that was what the nanobots were for. Every conceivable
+body chemistry metric was measured, recorded, and sent through the air
+either to satellites in space or to hardened “data bunkers” in nearly every
 city of any size in America. It was then aggregated and sent to offices like
 Aiden’s throughout the country, where eager college students (like Aiden
 once was) processed, cleaned, catalogued, and analyzed the data – looking
@@ -330,21 +346,24 @@ for “the answer”. And, taxing the ever-loving crap out of people who didn’
 find it with “shared responsibility payments”.
 Looking for thirty-five years, Aiden thought, and finding out jack squat.
 He was too anxious and angry to sleep on the bus to Kansas City. Looking
-for “the answer” took its toll on people. A half-dozen had quit; another
+for “the answer” took its toll on people. The nominal requirement was eight
+hours a day, an hour for lunch. Aiden didn’t know anyone who stayed for less
+than ten, never mind going out for lunch. A half-dozen had quit; another
 dozen or so let go when they cracked up and started having spaz attacks.
 Nine of these, he’d heard, got jobs at the farms and had moved to one of
 the rectangle states. The other three – one stepped out in front of a subway
 train, and the other two no one knew about.
 Aiden rolled his head against the bus window. Now he was on the losing
 end. A century and a half ago thousands of men who lost another lottery
-travelled to Union Station in Kansas City, the same path that Aiden was now
-travelling, to be sent halfway around the world to die in a miserable mudhole
-somewhere in France or catch the Spanish Flu at a God-forsaken place on
-the Kansas frontier, all for the “common good” as well, and twenty-six hours
-on a Greyhound bus was a lot of time to contemplate the unfairness of it all.
-From Union Station, he would be conveyed to his new position as a General
-Farm Laborer I with ADM Monsanto Bayer, out of Dodge City. Where,
-Aiden noted, there had been two meth-related murders last Saturday.
+travelled to Union Station in Kansas City, the same path that Aiden was
+now travelling, to be sent halfway around the world to die in a miserable
+mudhole somewhere in France or catch the Spanish Flu at a God-forsaken
+place on the Kansas frontier, all for the “common good” as well, and twenty-
+six hours on a Greyhound bus was a lot of time to contemplate the unfairness
+of it all. From Union Station, he would be conveyed to his new position as
+a General Farm Laborer I with ADM Monsanto Bayer, out of Dodge City.
+12
+Where, Aiden noted, there had been four meth-related murders last week.
 The bus pulled into a Break Time gas station. The passengers, including
 Aiden, shuffled toward the door to get out to stretch or hit the restroom, as
 their bodies indicated. Aiden looked into the convenience store. No one else
@@ -360,7 +379,29 @@ What the hell happened?
 “Jesus, man – I’m sorry.”
 “What do I do now?!? I’ll never get another full-time job again with this
 crap hanging over me!”
-12
+“Dude, you got some skills. You could pick up some contracts, right?
+Everyone needs data scientists these days.” Chandler seemed remarkably
+calm about all this. Perhaps it was the reefer, but perhaps it was also that
+he still had reasonable prospects of not plunging his family into generational
+debt or working himself into an early grave at a factory farm.
+Aiden slumped onto his bed, covering his face with his hands. rubbed
+his face and eyes a bit, and brought his head up to rest his chin in his
+hands. “The contractors have to meet their health targets...No. The farms.
+It’s the only way. Otherwise my family – my sister – will get hounded by
+Department of Education collectors. Hounded out of their home...Oh my
+God...” He broke down sobbing.
+“You’ve...got...skills.” Chandler seemed to think that Aiden could take
+a binder labelled SKILLS with him to the plant and that it would guarantee
+him a cushy office job from which to manage his data-cleaning contracts,
+art projects, and the coordination of advertising for his foodie blog. “You
+could get promoted pretty quickly.”
+Aidan was pretty sure, though, that everyone who was going to be a
+Financial Analyst II was already a Financial Analyst II, and that more
+Financial Analyst IIs were not really needed. Unless Financial Analyst IIs
+were somehow more nutritious than rice, soybeans, wheat, or corn.
+“If you’re worried about the HIXbots, dude...I know of a guy who turns
+them off. And don’t worry about it – the government won’t get you in
+13
 CHS ConAgra Cargill is hiring!
 Need work?
 CHS ConAgra Cargill is looking for agricultural laborers
@@ -389,29 +430,7 @@ overtime, especially around deadlines for government
 Benefits include competitive pay, savings / student loan
 contributions, and no nanobot checks.
 Apply today!
-13
-“Dude, you got some skills. You could pick up some contracts, right?
-Everyone needs data scientists these days.” Chandler seemed remarkably
-calm about all this. Perhaps it was the reefer, but perhaps it was also that
-he still had reasonable prospects of not plunging his family into generational
-debt or working himself into an early grave at a factory farm.
-Aiden slumped onto his bed, covering his face with his hands. rubbed
-his face and eyes a bit, and brought his head up to rest his chin in his
-hands. “The contractors have to meet their health targets...No. The farms.
-It’s the only way. Otherwise my family – my sister – will get hounded by
-Department of Education collectors. Hounded out of their home...Oh my
-God...” He broke down sobbing.
-“You’ve...got...skills.” Chandler seemed to think that Aiden could take
-a binder labelled SKILLS with him to the plant and that it would guarantee
-him a cushy office job from which to manage his data-cleaning contracts,
-art projects, and the coordination of advertising for his foodie blog. “You
-could get promoted pretty quickly.”
-Aidan was pretty sure, though, that everyone who was going to be a
-Financial Analyst II was already a Financial Analyst II, and that more
-Financial Analyst IIs were not really needed. Unless Financial Analyst IIs
-were somehow more nutritious than rice, soybeans, wheat, or corn.
-“If you’re worried about the HIXbots, dude...I know of a guy who turns
-them off. And don’t worry about it – the government won’t get you in
+14
 trouble if you ever come back to the city; they’ll just inject you again. They
 want to get in as many people as possible.” This was a nice thing to say, in
 Chandler’s own addled way, but there wasn’t any coming back.
@@ -428,7 +447,6 @@ gesture.
 Aiden took a deep breath, lolling his head back and forth, focusing on a
 mote of light coming from a hole in the rotting warehouse ceiling. He wasn’t
 really prepared for the whole creeping dread part of this.
-14
 A low thrum began to build to a high-pitched whine. The lights that
 weren’t already broken flickered and dimmed.
 Aiden looked down at the button. It resembled an old child’s toy. There
